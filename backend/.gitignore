@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/*
+__pycache__
+*/__pycache__
+__pycache__/*
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+.aws-sam
+.env
+cdk.context.json
+storage/*
+.idea
+.vscode
+# pip files
+build/*
+*/build
+build
+*.egg-info/
